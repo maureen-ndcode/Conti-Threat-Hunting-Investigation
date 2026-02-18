@@ -47,7 +47,7 @@ Through this project, I learned:
 
 # Project Report
 
-[Download Full Report](report/TryHackMe_Conti_Threat_Hunting_Report.pdf)
+[Download Full Report](TryHackMe_Conti_Threat_Hunting_Report.pdf)
 
 # Author
 Maureen
